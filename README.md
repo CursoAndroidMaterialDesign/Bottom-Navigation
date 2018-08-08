@@ -3,8 +3,6 @@ Bottom Navigation
 
 As Bottom Navigations facilitam a navegação entre as telas com um único toque.
 
-***Esse projeto faz parte do Curso Completo de Android Material Design ([https://www.udemy.com/curso-android-material-design/](https://www.udemy.com/curso-android-material-design/?couponCode=ANDROIDPRO))***
-
 
 Pré-requisitos
 --------------
